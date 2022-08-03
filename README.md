@@ -6,6 +6,6 @@ Facilitar a divisão de gastos de uma viagem.
 
 ```
 
- _node app.js_ .
+ * node app.js*.
 
 ```
